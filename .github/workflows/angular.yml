@@ -39,4 +39,4 @@ jobs:
         npm install
         npm run build
     - name: npm test
-      run: npm ci-test
+      run: npm run ci-test
